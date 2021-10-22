@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Pilha.cpp">
+      <Filter>Pilha</Filter>
+    </ClCompile>
+    <ClCompile Include="Nodo.cpp">
+      <Filter>Pilha</Filter>
+    </ClCompile>
+    <ClCompile Include="Jogo.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Carta.cpp">
+      <Filter>Jogo</Filter>
+    </ClCompile>
+    <ClCompile Include="Jogador.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Pilha.h">
+      <Filter>Pilha</Filter>
+    </ClInclude>
+    <ClInclude Include="Nodo.h">
+      <Filter>Pilha</Filter>
+    </ClInclude>
+    <ClInclude Include="Jogo.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Carta.h">
+      <Filter>Jogo</Filter>
+    </ClInclude>
+    <ClInclude Include="Jogador.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Pilha">
+      <UniqueIdentifier>{523ef118-0577-40f8-8740-ff2398f5c91d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Jogo">
+      <UniqueIdentifier>{eb548d55-e4b7-474b-b4f1-2c94454d380b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

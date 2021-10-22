@@ -1,0 +1,13 @@
+- Proposta e diagrama de classses: mostrado ao professor presencialmente na aula.
+
+- Herança e polimorfismo: não encontrei nenhum lugar para utilizar de forma efetiva no jogo.
+
+- Arquivos: Utilizado arquivo binário para armazenar o número de vezes que o jogo foi jogado (contabiliza partidas concluídas)("Jogo.h" > void fimDaPartida(); e void inicializar();)
+
+- Recursão: Utilizado para fazer o embaralhamento das cartas ("Pilha.h" > void embaralhar();)
+
+- Pilhas: Utilizei a pilha feita por mim para criar e usar o baralho de cartas (baralho).
+
+- Fila: Utilizado a da STL para fazer a ordem de quem é o próximo a jogar ("Jogo.h" > void iniciarMesa();)
+
+- Lista: Utilizado a da STL para armazenar as cartas dos jogadores (mão).

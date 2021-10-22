@@ -1,0 +1,65 @@
+﻿  Jogo.cpp
+cl : linha de comando warning D9035: opção 'Gm' foi preterida e será removida em uma versão futura
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Carta.h(19,45): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Carta.h(19,36): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Carta.h(20,88): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Carta.h(20,79): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Carta.h(21,110): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Carta.h(21,101): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(14,24): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(129,32): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(162,26): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(185,76): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(185,46): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(187,70): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(187,40): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(188,72): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(188,42): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(189,70): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(189,40): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(191,64): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(191,37): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(192,68): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(192,41): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(193,73): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(193,42): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(195,40): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(196,43): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(197,45): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(198,56): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(223,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(224,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(225,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(226,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(227,29): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(263,27): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(271,91): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(272,92): warning C4244: 'argumento': conversão de 'double' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(504,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(505,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(506,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(507,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(559,31): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(566,33): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(566,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(567,33): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(567,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(568,33): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(568,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(569,33): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(569,24): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(758,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(759,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(760,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(761,37): warning C4244: '=': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(1034,33): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(1038,58): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(1038,55): warning C4244: 'argumento': conversão de 'float' para 'int', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(1157,69): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(1157,42): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(1158,68): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(1158,41): warning C4244: 'argumento': conversão de 'int' para 'float', possível perda de dados
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(857): warning C4715: 'Jogo::calculaEnvido': nem todos os caminhos de controle retornam um valor
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(907): warning C4715: 'Jogo::calculaFlor': nem todos os caminhos de controle retornam um valor
+C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\Jogo.cpp(961): warning C4715: 'Jogo::testaFlor': nem todos os caminhos de controle retornam um valor
+  base.vcxproj -> C:\Users\crow1\Desktop\libUnicornio-master\projetos\2\bin\base-debug.exe
